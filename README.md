@@ -1,2 +1,2 @@
-# pagina-do-csgo
- como jogar CSGO
+# pagina-do-CSGO
+ como jogar o csgo
